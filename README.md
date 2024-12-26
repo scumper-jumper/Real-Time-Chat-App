@@ -1,6 +1,6 @@
 # Full Stack Realtime Chat App
 
-![Demo App](/frontend/public/sss.png)
+![Demo App](/frontend/public/sss.jpg)
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 - 🎃 Authentication && Authorization with JWT
